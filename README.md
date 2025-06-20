@@ -4,8 +4,6 @@ run
 
 php -S localhost:80
 
-list:
-/
+/ - list
 
-post:
-/id
+/id - post
